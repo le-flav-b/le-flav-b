@@ -3,7 +3,7 @@
 <br>
 
 
-- 🖥️ I’m currently working on **My Bodybuilding Program** (an APK) *and* **My Personnal Portfolio**
+- 👨‍💻 I’m currently working on **My Bodybuilding Program** (an APK) *and* **My Personnal Portfolio**
 
 - 💬 Ask me about **python, design**
 
