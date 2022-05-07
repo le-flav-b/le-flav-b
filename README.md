@@ -34,7 +34,7 @@
 ---
 
 
-<h3 align="left">My projects :</h3>
+<h3 align="left">My Projects :</h3>
 
 - 🪙 **Cryptocurrencies Prices** : a trading platform
 - 👑 **King Of Chess Duo** : a local 1v1 chess game
