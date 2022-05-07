@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @le-flav-b</h1>
-<h3 align="center">I am a French student passionate about programming</h3>
+<h3 align="center">a French student passionate about programming</h3>
 <br>
 
 
