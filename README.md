@@ -39,6 +39,6 @@
 - 🪙 **Cryptocurrencies Prices** : a trading platform
 - 👑 **King Of Chess Duo** : a local 1v1 chess game
 - 💪 **My Bodybuilding Program** : the mobile app of my bodybuilding program
-- 👨‍🎓 **Personal Portfolio** : my personnal website
-- 💻 **Compordis** : a school project describing among other things the different components of a computer
-- 🏴‍☠️ **Treasure Hunt** : a small puzzle project in website
+- 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
+- 💻 [Compordis](https://github.com/le-flav-b/compordis) : a school project describing among other things the different components of a computer
+- 🏴‍☠️ [Treasure Hunt](https://github.com/le-flav-b/treasure-hunt) : a small puzzle project in website
