@@ -36,8 +36,8 @@
 
 <h3 align="left">My Projects :</h3>
 
-- 🪙 **Cryptocurrencies Prices** : a trading platform
-- 👑 **King Of Chess Duo** : a local 1v1 chess game
+- 🪙 [Cryptocurrencies Prices](https://github.com/le-flav-b/cryptocurrencies-prices) : a trading platform
+- 👑 [King Of Chess Duo](https://github.com/le-flav-b/king-of-chess-duo) : a local 1v1 chess game
 - 💪 **My Bodybuilding Program** : the mobile app of my bodybuilding program
 - 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
 - 💻 [Compordis](https://github.com/le-flav-b/compordis) : a school project describing among other things the different components of a computer
