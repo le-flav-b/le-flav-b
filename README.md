@@ -5,6 +5,8 @@
 
 - 👨‍💻 I’m currently working on **My Bodybuilding Program** (an APK) *and* **My Personnal Portfolio**
 
+- 🧠 I'm starting to learn C
+
 - 💬 Ask me about **python, design**
 
 - 📫 Reach me on **flavien.bouleau@free.fr**
