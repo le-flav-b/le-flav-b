@@ -3,7 +3,7 @@
 <br>
 
 
-- 👨‍💻 I’m currently working on **Quick Readme**
+- 👨‍💻 I’m currently working on **Diva**
 
 - 🧠 I'm studing at **Epitech** in Nantes
 
@@ -49,6 +49,7 @@
 
 <h3 align="left">My Current Projects :</h3>
 
+- 🎙️ [Diva](https://github.com/le-flav-b/diva) : a personnal voice assistant
 - ⬇️ [Quick Readme](https://github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
 - 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
 - 💪 [My Bodybuilding Program](https://github.com/le-flav-b/my-bodybuilding-program) : the mobile app of my bodybuilding program
