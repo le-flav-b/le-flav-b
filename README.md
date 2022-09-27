@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on **Quick Readme**
 
-- 🧠 I'm studing at the **42 school** in Paris
+- 🧠 I'm studing at **Epitech** in Nantes
 
 - 💬 Ask me about **python, design**
 
