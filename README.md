@@ -51,5 +51,12 @@
 
 - 🎙️ [Diva](https://github.com/le-flav-b/diva) : a personnal voice assistant
 - ⬇️ [Quick Readme](https://github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
+
+
+---
+
+
+<h3 align="left">My Paused Projects :</h3>
+
 - 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
 - 💪 [My Bodybuilding Program](https://github.com/le-flav-b/my-bodybuilding-program) : the mobile app of my bodybuilding program
