@@ -38,6 +38,7 @@
 
 <h3 align="left">My Fisnished Projects :</h3>
 
+- ⬇️ [Quick Readme](https://github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
 - 🪙 [Cryptocurrencies Prices](https://github.com/le-flav-b/cryptocurrencies-prices) : a trading platform
 - 👑 [King Of Chess Duo](https://github.com/le-flav-b/king-of-chess-duo) : a local 1v1 chess game
 - 💻 [Compordis](https://github.com/le-flav-b/compordis) : a school project describing among other things the different components of a computer
@@ -50,7 +51,6 @@
 <h3 align="left">My Current Projects :</h3>
 
 - 💪 [My Bodybuilding Program](https://github.com/le-flav-b/my-bodybuilding-program) : the mobile app of my bodybuilding program
-- ⬇️ [Quick Readme](https://github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
 
 
 ---
