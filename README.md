@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on **My Bodybuilding Program**
 
-- 🧠 I'm studing at **Epitech** in Nantes
+- 🧠 I'm trying to be student at the **42 school** in Paris
 
 - 💬 Ask me about **python, design**
 
@@ -62,5 +62,4 @@
 
 <h3 align="left">My Paused Projects :</h3>
 
-- 🎙️ [Diva](https://github.com/le-flav-b/diva) : a personnal voice assistant
 - 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
