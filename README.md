@@ -66,3 +66,4 @@
 <h3 align="left">My Paused Projects :</h3>
 
 - 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
+- 💪 [My Bodybuilding Program](https://github.com/le-flav-b/my-bodybuilding-program) : a flutter app to manage my bodybuilding training
