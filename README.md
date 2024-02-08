@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python, c, design**
 
-- 💡 Learn more about me on [my website](https://www.le-flav-b.fr)
+- 💡 Learn more about me on [LinkedIn](linkedin.com/in/flavien-bouleau/) or on [my website](le-flav-b.fr)
 
 - 📫 Reach me on **fbouleau@outlook.com**
 
@@ -49,11 +49,11 @@
 
 <h3 align="left">My Fisnished Projects :</h3>
 
-- ⬇️ [Quick Readme](https://github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
-- 🪙 [Cryptocurrencies Prices](https://github.com/le-flav-b/cryptocurrencies-prices) : a trading platform
-- 👑 [King Of Chess Duo](https://github.com/le-flav-b/king-of-chess-duo) : a local 1v1 chess game
-- 💻 [Compordis](https://github.com/le-flav-b/compordis) : a school project describing among other things the different components of a computer
-- 🏴‍☠️ [Treasure Hunt](https://github.com/le-flav-b/treasure-hunt) : a small puzzle project in website
+- ⬇️ [Quick Readme](github.com/le-flav-b/quick-readme) : a little tool, that generate quickly a markdown file for a readme.md
+- 🪙 [Cryptocurrencies Prices](github.com/le-flav-b/cryptocurrencies-prices) : a trading platform
+- 👑 [King Of Chess Duo](github.com/le-flav-b/king-of-chess-duo) : a local 1v1 chess game
+- 💻 [Compordis](github.com/le-flav-b/compordis) : a school project describing among other things the different components of a computer
+- 🏴‍☠️ [Treasure Hunt](github.com/le-flav-b/treasure-hunt) : a small puzzle project in website
 
 
 ---
@@ -61,4 +61,4 @@
 
 <h3 align="left">My Paused Projects :</h3>
 
-- 👨‍🎓 [Personal Portfolio](https://github.com/le-flav-b/personal-portfolio) : my personnal website
+- 👨‍🎓 [Personal Portfolio](github.com/le-flav-b/personal-portfolio) : my personnal website
