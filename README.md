@@ -9,7 +9,7 @@
 
 - 📑 Always looking for **new experiences**, to acquire all kinds of knowledge and skills
 
-- 👨‍💻 I’m currently working on ***the common core of 42** and **some electronics projects**
+- 👨‍💻 I’m currently working on **the common core of 42** and **some electronics projects**
 
 - 💬 Ask me about **python, c, design**
 
